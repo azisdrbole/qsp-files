@@ -22,3 +22,5 @@
 | [ResellerPercetakan](https://www.resellerpercetakan.net) | [Resellerpercetakan.qsp](https://raw.githubusercontent.com/qlobot/qlobot-scrap-plugins/main/QSP%20Files/Resellerpercetakan.qsp) |
 | [sentralgrosirjilbab](http://sentralgrosirjilbab.com/) | [sentralgrosirjilbab.qsp](https://raw.githubusercontent.com/qlobot/qlobot-scrap-plugins/main/QSP%20Files/sentralgrosirjilbab.qsp) |
 | [SidoAyuStore](https://www.sidoayustore.com) | [sidoayustore.qsp](https://raw.githubusercontent.com/qlobot/qlobot-scrap-plugins/main/QSP%20Files/sidoayustore.qsp) |
+| [Shopee] (https://www.shopee.co.id) | [shopee.qsp](https://github.com/azisdrbole/qsp-files/blob/master/QSP%20Files/shopee.qsp)
+| [SidoAyuStore](https://www.sidoayustore.com) | [sidoayustore.qsp](https://raw.githubusercontent.com/qlobot/qlobot-scrap-plugins/main/QSP%20Files/sidoayustore.qsp) |
